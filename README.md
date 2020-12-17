@@ -7,13 +7,13 @@ sqlite3 universe.db
 ```
 
 ```sql
-sqlite3 universe.db < create_tables.sql
+sqlite3 universe.db < initial_queries/create_tables.sql
 ```
 
 After creating the tables, seed them with some data:
 
 ```sql
-sqlite3 universe.db < seed_tables.sql
+sqlite3 universe.db < initial_queries/seed_tables.sql
 ```
 
 Use the answers.rb file to record your answers to each query challenge listed in the challenge.md file!
