@@ -20,14 +20,13 @@ In order to start gathering your data, you will first have to follow the instruc
 
 ### Here is the list of fata you will have to collect
 
-1. return the names and masses of all the stars whose type is "red dwarfs"
-2. return the names of the hostile planets
-4. return all of the info about the fastest spaceship
-5. return a list of all spaceships names and the planet they belong to
-6. return a list of all astronauts aboard the spaceship named 'Galactica'
-7. return a list of all astronauts from the planet named 'Alpha 34'
-8. return the planet name, the count of all spaceships from each planet, and the name of the star of their planetay system
-9. order the planets based on how many astronauts are from that planet
-10. order the planets based on how many astronauts over the age of 60 are from that planet
-8return the planet name, the count of all spaceships from each planet, and the name of the star of their planetay system
-2. return the planet name and count of astronauts of all spaceships where the planet_id is 3
+- return the names and masses of all the stars whose type is "red dwarfs"
+- return the names of the hostile planets
+- return all of the info about the fastest spaceship
+- return a list of all spaceships names and the planet they belong to
+- return a list of all astronauts aboard the spaceship named 'Galactica'
+- return the planet name, the count of all spaceships from each planet, and the name of the star of their planetay system
+- order the planets based on how many astronauts are from that planet
+- order the planets based on how many astronauts over the age of 60 are from that planet
+- return the planet name, the count of all spaceships from each planet, and the name of the star of their planetay system
+- return the planet name and count of astronauts of all spaceships where the planet_id is 3
